@@ -693,10 +693,14 @@
 		    <key>scope</key>
 		    <string>meta.structure.dictionary string</string>
 		    <key>settings</key>
-		    <dict>
-		        <key>foreground</key>
-		        <string>#E6DB74</string>
-		    </dict>
+			<dict>
+				<key>background</key>
+				<string>#10262266</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#8FFF58</string>
+			</dict>
 		</dict>
 		<dict>
 		    <key>name</key>
