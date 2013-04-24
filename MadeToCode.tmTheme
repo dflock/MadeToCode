@@ -605,11 +605,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#632D04</string>
+				<string></string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FEDCC5</string>
+				<string>#F9EE98</string>
 			</dict>
 		</dict>
 		<dict>
